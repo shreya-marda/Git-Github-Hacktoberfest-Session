@@ -4,12 +4,18 @@
 </a>
 ## 💫 About Me:
 
-- 🌱 I’m currently learning DSA in C, Blockchain development (Solidity).
+- 🌱 I’m currently learning DSA in C, Blockchain development (Solidity)(exploring).
 - 👯 I’m looking to collaborate on projects involving Web development.
-- 🤝 I’m looking for help with 
-- 🛠 I'm interested in FinTech, App development.
-- 🤖 I'm Current 
-- 💬 Ask me about 
+- 🤝 I’m looking for help with Fintech and Blockchain development.
+- 🛠 I'm interested in web development, FinTech and App development.
+- 🤖 I'm Current student.
+- 💬 Ask me about - web development, python
 - 🥅 2022 Goals: Want to learn Blockchain development, App development. 
 - ⚡ Fun fact - I 💖 
 - 📫 Hit an email - 📧 
+
+## ✍️ Random Dev Quote
+**_< a random Quote >_**
+
+## 😂 Random Dev Meme
+<ima src = "<Meme Image Address>">
